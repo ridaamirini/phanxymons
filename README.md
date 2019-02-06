@@ -2,7 +2,7 @@
 Monster for the phanxbot (https://www.twitch.tv/phanxgames)
 
 # Description
-Submit your custom made phanxy-mons for the new chatbot game replacing the "pokebot".
+Submit your custom made phanxymons for the new chatbot game replacing the "pokebot".
 
 # Rules
 * 100x100px
