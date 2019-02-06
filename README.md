@@ -1,4 +1,4 @@
-# phanxmons
+# phanxymons
 Monster for the phanxbot (https://www.twitch.tv/phanxgames)
 
 # Description
