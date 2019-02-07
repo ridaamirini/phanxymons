@@ -11,7 +11,7 @@ Submit your custom made phanxymons for the new chatbot game replacing the "pokeb
 * Must be **SAFE FOR WORK**
 
 # Example 
-> This is very bad example from [@phanxgames](https://github.com/phanxgames). :grin:
+> This is a very bad example from [@phanxgames](https://github.com/phanxgames). :grin:
 
 <p align="center">
   <img src="https://github.com/ridaamirini/phanxmons/blob/master/draft.png">
